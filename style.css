@@ -1,7 +1,10 @@
 header{
+    height: 65px;
+    width: 130px;
  background-color: palegreen;
 }
 
 .cabecalho-imagem{
-    width: 20%;
+    height: 10px;
+    width: 10px;
 }
