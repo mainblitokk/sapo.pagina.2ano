@@ -2,9 +2,12 @@
   
  background-color: #3f6447;
  color: white;
+ display: flex;
 }
 
 .cabecalho-imagem{
     width 20%
    
 }
+
+.cabecalho-lista[]
