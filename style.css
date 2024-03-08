@@ -1,6 +1,7 @@
-header{
+.cabecalho{
   
- background-color: palegreen;
+ background-color: #3f6447;
+ color: white;
 }
 
 .cabecalho-imagem{
