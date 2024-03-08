@@ -3,6 +3,7 @@
  background-color: #3f6447;
  color: white;
  display: flex;
+ justify-content: space-around;
 }
 
 .cabecalho-imagem{
@@ -10,4 +11,6 @@
    
 }
 
-.cabecalho-lista[]
+.cabecalho-lista{
+
+}
