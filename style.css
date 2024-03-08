@@ -7,10 +7,12 @@
 }
 
 .cabecalho-imagem{
-    width 30%
+    width: 20%;
    
 }
 
-.cabecalho-lista{
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
 
 }
