@@ -28,11 +28,12 @@
 .principal{
      background-image: linear-gradient( #305536, #92E3A9);
      display: flex;
+     justify-content: center;
+     align-items: center
 }
 .bio{
      width: 20%;
 }
 .conteudo{
- justify-content: center;
- align-items: center;
+ 
 }
