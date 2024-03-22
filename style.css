@@ -27,6 +27,7 @@
 
 .principal{
      background-image: linear-gradient( #305536, #92E3A9);
+     display: flex;
 }
 .bio{
      width: 20%;
