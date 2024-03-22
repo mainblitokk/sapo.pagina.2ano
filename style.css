@@ -32,7 +32,7 @@
 .bio{
      width: 20%;
 }
-.quem{
-<strong>
-
+.conteudo{
+ justify-content: center;
+ align-items: center;
 }
