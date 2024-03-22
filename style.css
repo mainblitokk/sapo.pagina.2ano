@@ -28,8 +28,6 @@
 .principal{
      background-image: linear-gradient( #305536, #92E3A9);
 }
-.direito{
-    box-sizing: center;
-    width: 16px;
-    height: 16px ;
+.bio{
+     width: 20%;
 }
