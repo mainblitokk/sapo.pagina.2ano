@@ -28,7 +28,7 @@
 .principal{
      background-image: linear-gradient( #305536, #92E3A9);
      /* display: flex;*/
-     justify-content: space-around;
+     justify-content: center;
      align-items: center;
      padding: 24px, 0px;
 
@@ -40,5 +40,6 @@
 }
 .conteudo{
    width: 100%;
+   vertical-align: center;
 }
 
