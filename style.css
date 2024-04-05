@@ -30,12 +30,15 @@
      display: flex;
      justify-content: space-around;
      align-items: center;
-     /* padding: 24px, 0px; */
+     padding: 24px, 0px;
 
 }
 .bio{
      width: 20%;
+     display: center;
+     
 }
 .conteudo{
    width: 35%;
 }
+
