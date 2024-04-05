@@ -27,7 +27,7 @@
 
 .principal{
      background-image: linear-gradient( #305536, #92E3A9);
-     display: flex;
+     /* display: flex;*/
      justify-content: space-around;
      align-items: center;
      padding: 24px, 0px;
