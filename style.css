@@ -45,10 +45,9 @@
      width: 24px;
      padding: 4px 8px;
      display: grid;
-     grid-template-columns: 20% 20% 20% 20% 20%;
-     justify-content: space-around;
-     align-items: c;
-          
+     /*grid-template-columns: 20% 20% 20% 20% 20%;*/
+     /*justify-content: space-around;*/
+
 
 }
 .sapo{
