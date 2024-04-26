@@ -45,7 +45,7 @@
      width: 24px;
      padding: 4px 8px;
      display: grid;
-     grid-template-columns: 1000% 100% 100% 100% 100%;
+     grid-template-columns: 100% 1000% 100% 100% 100%;
      justify-content: space-around;
 
 
