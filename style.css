@@ -48,7 +48,7 @@
 }
 .sapo{
           width: 30%;
-          display: flex;
+          display: grid;
           justify-content: space-around;
           background-color: rgb(29, 28, 28);
 }
